@@ -1,0 +1,7 @@
+Dear all,
+
+Hiện tại hệ thống LMS đang cập nhật thông tin buổi học, khóa học, nhận xét ,hình ảnh,... tuy nhiên vì các lớp bên odoo chưa chọn tên bài đúng hoặc chưa chọn tên bài. Vì vậy mọi người kiểm tra lại tất cả các lớp học của mình từ trước đến nay để có thể cập nhật hệ thống mới. Phần cần kiểm tra như hình dưới đây
+
+Các vấn đề khi gặp phải mọi người email kèm hình lại cho EL cơ sở.
+
+Thanks and best regards,
